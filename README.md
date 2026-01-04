@@ -8,9 +8,7 @@
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LorenaCastroS&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=LorenaCastroS&theme=catppuccin_mocha&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LorenaCastroS&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![](https://github-readme-stats.vercel.app/api?username=LorenaCastroS&show_icons=true&theme=catppuccin_mochal)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=LorenaCastroS&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
