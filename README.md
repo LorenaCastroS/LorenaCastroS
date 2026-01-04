@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 ### Olá! Eu sou a Lorena<br><br>🎓 Tecnóloga em desenvolvimento de sistemas pela ETEC<br>👩🏻‍💻 Desenvolvedora em formação<br>💻 Interessada em programação com C#, Unity e Python<br>
 
 
