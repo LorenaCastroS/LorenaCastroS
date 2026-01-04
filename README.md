@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Olá! Eu sou a Lorena<br><br>🎓 Tecnóloga em desenvolvimento de sistemas pela ETEC<br>👩🏻‍💻 Desenvolvedora em formação<br>💻 Interessada em programação com C#, Unity e Python
+### Olá! Eu sou a Lorena<br><br>🎓 Tecnóloga em desenvolvimento de sistemas pela ETEC<br>👩🏻‍💻 Desenvolvedora em formação<br>💻 Interessada em programação com C#, Unity e Python<br>
 
 
 ## 🌐 Socials:
@@ -14,5 +14,8 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=LorenaCastroS&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=LorenaCastroS&icon=9&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
